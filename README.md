@@ -5,10 +5,6 @@ I am currently working on personal projects to enhance my knowledge, improve my 
 
 Feel free to explore my repositories, where you can find my work and progress as I continue to grow as a developer.
 
-📫 Let's Connect!
-You can reach out to me via ceresceresdev@gmail.com or connect with me on linkedin.com/in/
-fortunato-galapon-jr-9a69a2283
-].
 Thanks for visiting! 😊
 
 <!---
